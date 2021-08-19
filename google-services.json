@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703640062038",
+    "project_id": "semsx-f38a8",
+    "storage_bucket": "semsx-f38a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703640062038:android:c06e5cbfe017b4df9013f7",
+        "android_client_info": {
+          "package_name": "com.sems.lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703640062038-7vs9joa483d3fd7vhho3l477hqkjmfnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhfGeME4AossQv1z6pAdffmFCp3EwwnEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703640062038-7vs9joa483d3fd7vhho3l477hqkjmfnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
